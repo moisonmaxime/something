@@ -1,7 +1,14 @@
 [
   {
-    "title": "Trending Now",
+    "title": "Trending Movies",
     "carouselType": "movies",
+    "parameters": {
+      "sortBy": "popularity.desc",
+    }
+  },
+  {
+    "title": "Trending Shows",
+    "carouselType": "shows",
     "parameters": {
       "sortBy": "popularity.desc",
     }
