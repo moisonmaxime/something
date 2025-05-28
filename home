@@ -11,6 +11,7 @@
     "carouselType": "shows",
     "parameters": {
       "sortBy": "popularity.desc",
+      "withoutGenres": "10763,10767",
     }
   },
   {
