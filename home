@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Trending Now",
+    "parameters": {
+      "sortBy": "popularity.desc",
+    }
+  },
+  {
+    "title": "Top Rated",
+    "parameters": {
+      "sortBy": "vote_average.desc",
+      "minimumVoteCount": 1000,
+    }
+  },
+  {
+    "title": "Action Movies",
+    "parameters": {
+      "withGenres": "28",
+      "sortBy": "popularity.desc",
+    }
+  },
+  {
+    "title": "Comedy Favorites",
+    "parameters": {
+      "withGenres": "35",
+      "sortBy": "vote_average.desc",
+      "minimumVoteCount": 500,
+    }
+  },
+  {
+    "title": "New Releases",
+    "parameters": {
+      "minimumReleaseDate": "2024-01-01",
+      "sortBy": "primary_release_date.desc",
+    }
+  }
+]
