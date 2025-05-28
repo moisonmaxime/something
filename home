@@ -1,12 +1,14 @@
 [
   {
     "title": "Trending Now",
+    "carouselType": "movies",
     "parameters": {
       "sortBy": "popularity.desc",
     }
   },
   {
     "title": "Top Rated",
+    "carouselType": "movies",
     "parameters": {
       "sortBy": "vote_average.desc",
       "minimumVoteCount": 1000,
@@ -14,6 +16,7 @@
   },
   {
     "title": "Action Movies",
+    "carouselType": "movies",
     "parameters": {
       "withGenres": "28",
       "sortBy": "popularity.desc",
@@ -21,6 +24,7 @@
   },
   {
     "title": "Comedy Favorites",
+    "carouselType": "movies",
     "parameters": {
       "withGenres": "35",
       "sortBy": "vote_average.desc",
@@ -29,6 +33,7 @@
   },
   {
     "title": "New Releases",
+    "carouselType": "movies",
     "parameters": {
       "minimumReleaseDate": "2024-01-01",
       "sortBy": "primary_release_date.desc",
