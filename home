@@ -1,10 +1,30 @@
 [
   {
+    "title": "New Movies",
+    "carouselType": "movies",
+    "parameters": {
+      "minimumReleaseDate": "2024-01-01",
+      "maxmumReleaseDate": "2025-06-01",
+      "sortBy": "primary_release_date.desc",
+      "minimumVoteCount": 100,
+    }
+  },
+  {
     "title": "Trending Movies",
     "carouselType": "movies",
     "parameters": {
       "sortBy": "popularity.desc",
       "minimumVoteCount": 1000,
+    }
+  },
+  {
+    "title": "Currently Airing Shows",
+    "carouselType": "shows",
+    "parameters": {
+      "sortBy": "popularity.desc",
+      "withoutGenres": "10763,10767",
+      "minimumVoteCount": 1000,
+      "minimumAirDate": "2025-05-27",
     }
   },
   {
@@ -42,14 +62,4 @@
       "minimumVoteCount": 500,
     }
   },
-  {
-    "title": "New Releases",
-    "carouselType": "movies",
-    "parameters": {
-      "minimumReleaseDate": "2024-01-01",
-      "maxmumReleaseDate": "2025-06-01",
-      "sortBy": "primary_release_date.desc",
-      "minimumVoteCount": 100,
-    }
-  }
 ]
