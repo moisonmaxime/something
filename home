@@ -38,6 +38,26 @@
     }
   },
   {
+    "title": "French Classics",
+    "carouselType": "movies",
+    "parameters": {
+      "originalLanguage": "fr",
+      "sortBy": "vote_average.desc",
+      "maximumReleaseDate": "1990-01-01",
+      "minimumVoteCount": 100
+     }
+  },
+  {
+    "title": "French Comedies",
+    "carouselType": "movies",
+    "parameters": {
+      "originalLanguage": "fr",
+      "withGenres": "35",
+      "sortBy": "popularity.desc",
+      "minimumVoteCount": 50
+    }
+  },
+  {
     "title": "Top Rated",
     "carouselType": "movies",
     "parameters": {
@@ -134,26 +154,6 @@
       "withGenres": "18",
       "sortBy": "vote_average.desc",
       "minimumVoteCount": 100
-    }
-  },
-  {
-    "title": "French Classics",
-    "carouselType": "movies",
-    "parameters": {
-      "originalLanguage": "fr",
-      "sortBy": "vote_average.desc",
-      "maximumReleaseDate": "1990-01-01",
-      "minimumVoteCount": 100
-     }
-  },
-  {
-    "title": "French Comedies",
-    "carouselType": "movies",
-    "parameters": {
-      "originalLanguage": "fr",
-      "withGenres": "35",
-      "sortBy": "popularity.desc",
-      "minimumVoteCount": 50
     }
   }
 ]
