@@ -140,7 +140,7 @@
     "title": "French Classics",
     "carouselType": "movies",
     "parameters": {
-      "withOriginalLanguage": "fr",
+      "originalLanguage": "fr",
       "sortBy": "vote_average.desc",
       "maximumReleaseDate": "1990-01-01",
       "minimumVoteCount": 100
@@ -150,7 +150,7 @@
     "title": "French Comedies",
     "carouselType": "movies",
     "parameters": {
-      "withOriginalLanguage": "fr",
+      "originalLanguage": "fr",
       "withGenres": "35",
       "sortBy": "popularity.desc",
       "minimumVoteCount": 50
