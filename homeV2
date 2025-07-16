@@ -62,6 +62,13 @@
     "parameters": {
       "identifier": 11187
      }
+  }
+  {
+    "title": "Bernard Blier",
+    "carouselType": "personMovies",
+    "parameters": {
+      "identifier": 24379
+     }
   },
   {
     "title": "French Classics",
