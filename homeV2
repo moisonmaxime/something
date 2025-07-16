@@ -32,28 +32,35 @@
     "title": "Top Movies",
     "carouselType": "list",
     "parameters": {
-      "listID": 634
+      "identifier": 634
      }
   },
   {
     "title": "Adult Animation",
     "carouselType": "list",
     "parameters": {
-      "listID": 113393
+      "identifier": 113393
      }
   },
   {
     "title": "-Nouvelle Vague",
     "carouselType": "list",
     "parameters": {
-      "listID": 8307806
+      "identifier": 8307806
      }
   },
   {
     "title": "-Cesars meilleur film du cinéma français",
     "carouselType": "list",
     "parameters": {
-      "listID": 8305731
+      "identifier": 8305731
+     }
+  },
+  {
+    "title": "Louis de Funès",
+    "carouselType": "personMovies",
+    "parameters": {
+      "identifier": 11187
      }
   },
   {
