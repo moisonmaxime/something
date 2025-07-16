@@ -1,1 +1,166 @@
-
+[
+  {
+    "title": "New Movies",
+    "carouselType": "movies",
+    "parameters": {
+      "minimumReleaseDate": "2024-01-01",
+      "maximumReleaseDate": "2025-06-01",
+      "sortBy": "primary_release_date.desc",
+      "minimumVoteCount": 100
+    }
+  },
+  {
+    "title": "Trending Movies",
+    "carouselType": "movies",
+    "parameters": {
+      "sortBy": "popularity.desc",
+      "minimumVoteCount": 1000
+    }
+  },
+  {
+    "title": "Currently Airing Shows",
+    "carouselType": "shows",
+    "parameters": {
+      "sortBy": "popularity.desc",
+      "withoutGenres": "10763,10767",
+      "minimumVoteCount": 1000,
+      "minimumAirDate": "2025-05-27",
+      "maximumAirDate": "2025-06-14"
+    }
+  },
+  {
+    "title": "Trending Shows",
+    "carouselType": "shows",
+    "parameters": {
+      "sortBy": "popularity.desc",
+      "withoutGenres": "10763,10767",
+      "minimumVoteCount": 1000
+    }
+  },
+  {
+    "title": "Nouvell Vague",
+    "carouselType": "list",
+    "parameters": {
+      "listID": 8307806
+     }
+  },
+  {
+    "title": "French Classics",
+    "carouselType": "movies",
+    "parameters": {
+      "originalLanguage": "fr",
+      "sortBy": "vote_average.desc",
+      "maximumReleaseDate": "1990-01-01",
+      "minimumVoteCount": 100
+     }
+  },
+  {
+    "title": "French Comedies",
+    "carouselType": "movies",
+    "parameters": {
+      "originalLanguage": "fr",
+      "withGenres": "35",
+      "sortBy": "popularity.desc",
+      "minimumVoteCount": 50
+    }
+  },
+  {
+    "title": "Top Rated",
+    "carouselType": "movies",
+    "parameters": {
+      "sortBy": "vote_average.desc",
+      "minimumVoteCount": 1000
+    }
+  },
+  {
+    "title": "Action Movies",
+    "carouselType": "movies",
+    "parameters": {
+      "withGenres": "28",
+      "sortBy": "popularity.desc",
+      "minimumVoteCount": 1000
+    }
+  },
+  {
+    "title": "Comedy Favorites",
+    "carouselType": "movies",
+    "parameters": {
+      "withGenres": "35",
+      "sortBy": "vote_average.desc",
+      "minimumVoteCount": 500
+    }
+  },
+  {
+    "title": "Sci-Fi & Fantasy",
+    "carouselType": "movies",
+    "parameters": {
+      "withGenres": "878,14",
+      "sortBy": "popularity.desc",
+      "minimumVoteCount": 500
+    }
+  },
+  {
+    "title": "Adult Animation",
+    "carouselType": "shows",
+    "parameters": {
+      "withGenres": "16,35",
+      "sortBy": "popularity.desc",
+      "minimumVoteCount": 100,
+      "minimumVoteAverage": 6.5
+    }
+  },
+  {
+    "title": "Family Picks",
+    "carouselType": "movies",
+    "parameters": {
+      "withGenres": "10751",
+      "sortBy": "popularity.desc",
+      "minimumVoteCount": 100
+    }
+  },
+  {
+    "title": "Romantic Comedies",
+    "carouselType": "movies",
+    "parameters": {
+      "withGenres": "10749,35",
+      "sortBy": "popularity.desc",
+      "minimumVoteCount": 100
+    }
+  },
+  {
+    "title": "Documentaries",
+    "carouselType": "movies",
+    "parameters": {
+      "withGenres": "99",
+      "sortBy": "vote_average.desc",
+      "minimumVoteCount": 50
+    }
+  },
+  {
+    "title": "Horror Highlights",
+    "carouselType": "movies",
+    "parameters": {
+      "withGenres": "27",
+      "sortBy": "popularity.desc",
+      "minimumVoteCount": 100
+    }
+  },
+  {
+    "title": "Kids' TV",
+    "carouselType": "shows",
+    "parameters": {
+      "withGenres": "10762",
+      "sortBy": "popularity.desc",
+      "minimumVoteCount": 50
+    }
+  },
+  {
+    "title": "Drama Series",
+    "carouselType": "shows",
+    "parameters": {
+      "withGenres": "18",
+      "sortBy": "vote_average.desc",
+      "minimumVoteCount": 100
+    }
+  }
+]
