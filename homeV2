@@ -38,10 +38,17 @@
     }
   },
   {
-    "title": "Nouvell Vague",
+    "title": "Nouvelle Vague",
     "carouselType": "list",
     "parameters": {
       "listID": 8307806
+     }
+  },
+  {
+    "title": "Cesars meilleur film du cinéma français",
+    "carouselType": "list",
+    "parameters": {
+      "listID": 8305731
      }
   },
   {
