@@ -38,6 +38,13 @@
     }
   },
   {
+    "title": "Nouvell Vague",
+    "carouselType": "list",
+    "parameters": {
+      "listID": 8307806
+     }
+  },
+  {
     "title": "French Classics",
     "carouselType": "movies",
     "parameters": {
