@@ -29,6 +29,13 @@
     }
   },
   {
+    "title": "Top Movies",
+    "carouselType": "list",
+    "parameters": {
+      "listID": 634
+     }
+  }
+  {
     "title": "Adult Animation",
     "carouselType": "list",
     "parameters": {
