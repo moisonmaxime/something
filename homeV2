@@ -47,7 +47,7 @@
     "carouselType": "movies",
     "parameters": {
       "sortBy": "popularity.desc",
-      "minimumVoteCount": 1000,
+      "minimumVoteCount": 100,
       "withGenres": "99",
     }
   },
