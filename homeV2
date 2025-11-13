@@ -43,6 +43,15 @@
      }
   },
   {
+    "title": "Documentaries",
+    "carouselType": "movies",
+    "parameters": {
+      "sortBy": "popularity.desc",
+      "minimumVoteCount": 1000,
+      "withGenres": "99",
+    }
+  },
+  {
     "title": "-Nouvelle Vague",
     "carouselType": "list",
     "parameters": {
