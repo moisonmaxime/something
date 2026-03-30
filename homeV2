@@ -3,8 +3,8 @@
     "title": "New Movies",
     "carouselType": "movies",
     "parameters": {
-      "minimumReleaseDate": "2025-04-01",
-      "maximumReleaseDate": "2025-10-01",
+      "minimumReleaseDate": "2025-10-05",
+      "maximumReleaseDate": "2026-04-05",
       "sortBy": "primary_release_date.desc",
       "minimumVoteCount": 100
     }
@@ -24,8 +24,8 @@
       "sortBy": "popularity.desc",
       "withoutGenres": "10763,10767",
       "minimumVoteCount": 1000,
-      "minimumAirDate": "2025-10-01",
-      "maximumAirDate": "2025-11-15"
+      "minimumAirDate": "2026-03-01",
+      "maximumAirDate": "2025-03-10"
     }
   },
   {
