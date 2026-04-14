@@ -43,6 +43,13 @@
      }
   },
   {
+    "title": "伊丹十三 - Jūzō Itami",
+    "carouselType": "personMovies",
+    "parameter": {
+      "identifier": "69167"
+    }
+  },
+  {
     "title": "Documentaries",
     "carouselType": "movies",
     "parameters": {
